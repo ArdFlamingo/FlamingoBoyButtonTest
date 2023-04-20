@@ -1,5 +1,6 @@
 #pragma once
 
+#include <Arduino.h>
 #include <stdio.h>
 
 class Lib
